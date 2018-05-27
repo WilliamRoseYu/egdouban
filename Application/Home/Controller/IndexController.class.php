@@ -9,6 +9,8 @@ class IndexController extends Controller {
     $this->assign('GoodsLists',$GoodsLists);
     $Ucomments = D('ucomment')->getList($where,$offset,$limit,$order);
     $this->assign('Ucomments',$Ucomments);
+    $programs = D('program')->getList($where,$offset,$limit,$order);
+    $this->assign('programs',$programs);
     $this->display('index');
 
 

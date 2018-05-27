@@ -6,22 +6,24 @@
 	<link rel="stylesheet" href="/Public/home/css/douban.css">
 	<link rel="stylesheet" href="/Public/home/css/iconfont.css">
 	<link rel="stylesheet" href="/Public/home/css/swiper.min.css">
-	<script src="./js/swiper.min.js"></script>
-	 <script src="./js/jquery-3.2.0.min.js"></script>
+	<script src="/Public/home/js/swiper.min.js"></script>
+	 <script src="/Public/home/js/jquery-3.2.0.min.js"></script>
 	<title>首页</title>
 </head>
 <body>
 	<div class="box-swiper" id="box-swiper">
+
 		<div class="swiper-container">
 			<div class="swiper-wrapper clearfix">
 				<?php foreach($adLists as $value) { ?>
 				<a href="javascript:void(0)" class="swiper-slide">
 					<img src="<?php echo ($value['img']); ?>">
 				</a>
-			<?php } ?>
+				<?php } ?>
 			</div>
 			<div class="swiper-pagination"></div>
 		</div>
+		
 	</div>
 	<div class="box-user clearfix">
 		<a href="javascript:void(0)"><i class="iconfont">&#xe61a;</i>购物车</a>
@@ -39,9 +41,9 @@
 						<img src="<?php echo ($value['img']); ?>" alt="">
 					</div>
 					<div class="content-text">
-						<h3>豆瓣收藏夹</h3>
-						<p>hahahh哈哈哈哈哈哈哈嘻嘻嘻学习学习</p>
-						<b>￥99</b><span>新品</span>
+						<h3><?php echo $value['name']; ?></h3>
+						<p><?php echo $value['summary']; ?></p>
+						<b><?php echo $value['price']; ?></b><span><?php echo $value['tags_id']; ?></span>
 					</div>
 				</a>
 			</div>
@@ -62,7 +64,7 @@
 				<div class="mess-text">
 					<?php echo $value['comment']; ?>
 				</div>
-				<div class="mess-img" style="background-image:url(./images/p114912775.jpg);">
+				<div class="mess-img" style="background-image:url(/Public/home/images/p114912775.jpg);">
 				</div>
 			</a>
 			<div class="mess-ad clearfix">
@@ -84,34 +86,15 @@
 		<div class="list-header">
 			热门活动
 		</div>
+		<?php foreach($programs as $value) { ?>
 		<div class="list-ctent clearfix" style="border-top:0;">
 		    <a href="javascript:void(0)">
-		        <img src="/Public/home/images/file-1524481845-0.jpg" alt="">
-		    	<h3>#男生包里面有什么哈哈哈哈#</h3>
-		        <p>akjxnsck ashb cjsabc asbcxajbx 啊啊哈是你测试也不错的本手册</p>
+		        <img src="<?php echo ($value['img']); ?>" alt="">
+		    	<h3><?php echo $value['title']; ?></h3>
+		        <p><?php echo $value['content']; ?></p>
 		    </a>
 		</div>
-		<div class="list-ctent clearfix">
-		    <a href="javascript:void(0)">
-		        <img src="/Public/home/images/file-1524481845-0.jpg" alt="">
-		    	<h3>#男生包里面有什么哈哈哈哈#</h3>
-		        <p>akjxnsck ashb cjsabc asbcxajbx 啊啊哈是你测试也不错的本手册</p>
-		    </a>
-		</div>
-		<div class="list-ctent clearfix">
-		    <a href="javascript:void(0)">
-		        <img src="/Public/home/images/file-1524481845-0.jpg" alt="">
-		    	<h3>#男生包里面有什么哈哈哈哈#</h3>
-		        <p>akjxnsck ashb cjsabc asbcxajbx 啊啊哈是你测试也不错的本手册</p>
-		    </a>
-		</div>
-		<div class="list-ctent clearfix">
-		    <a href="javascript:void(0)">
-		        <img src="./images/file-1524481845-0.jpg" alt="">
-		    	<h3>#男生包里面有什么哈哈哈哈#</h3>
-		        <p>akjxnsck ashb cjsabc asbcxajbx 啊啊哈是你测试也不错的本手册</p>
-		    </a>
-		</div>
+		<?php } ?>
 	</div>
 	<div class="box-footer box-list box-user">
 		<a href="javascript:void(0)">
@@ -124,6 +107,6 @@
 			<i class="iconfont">&#xe8b2;</i>商务合作
 		</a>
 	</div>
-    <script src="./js/douban.js"></script>
+    <script src="/Public/home/js/douban.js"></script>
 </body>
 </html>
