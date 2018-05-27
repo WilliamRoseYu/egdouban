@@ -1,0 +1,1191 @@
+[ 2018-05-20T14:32:27+08:00 ] 127.0.0.1 /admin/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\egdouban\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-20T14:32:27+08:00 ] 127.0.0.1 /index.php/Admin/index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\egdouban\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-20T14:32:28+08:00 ] 127.0.0.1 /admin/index/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-05-20T14:33:39+08:00 ] 127.0.0.1 /admin/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\egdouban\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-20T14:33:39+08:00 ] 127.0.0.1 /index.php/Admin/index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\egdouban\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-20T14:35:11+08:00 ] 127.0.0.1 /admin/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\egdouban\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-20T14:35:11+08:00 ] 127.0.0.1 /index.php/Admin/index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\egdouban\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2018-05-20T14:35:12+08:00 ] 127.0.0.1 /admin/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\egdouban\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-20T14:35:13+08:00 ] 127.0.0.1 /index.php/Admin/index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\egdouban\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-20T14:35:13+08:00 ] 127.0.0.1 /admin/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\egdouban\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-20T14:35:13+08:00 ] 127.0.0.1 /index.php/Admin/index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\egdouban\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-20T14:35:19+08:00 ] 127.0.0.1 /admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\egdouban\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-20T14:35:19+08:00 ] 127.0.0.1 /index.php/Admin/index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\egdouban\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-20T14:35:20+08:00 ] 127.0.0.1 /admin/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-20T14:35:49+08:00 ] 127.0.0.1 /admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\egdouban\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-20T14:35:49+08:00 ] 127.0.0.1 /index.php/Admin/index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\egdouban\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-20T14:37:04+08:00 ] 127.0.0.1 /admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\egdouban\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-05-20T14:37:05+08:00 ] 127.0.0.1 /index.php/Admin/index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\egdouban\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-20T14:37:05+08:00 ] 127.0.0.1 /admin/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-05-20T14:40:16+08:00 ] 127.0.0.1 /admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\egdouban\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-20T14:40:18+08:00 ] 127.0.0.1 /admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\egdouban\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2018-05-20T14:40:18+08:00 ] 127.0.0.1 /index.php/Admin/index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\egdouban\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2018-05-20T14:40:52+08:00 ] 127.0.0.1 /index.php/Admin/Seller/lists.html?v=4.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\egdouban\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2018-05-20T14:40:53+08:00 ] 127.0.0.1 /index.php/Admin/Classify/lists.html?v=4.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\egdouban\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2018-05-20T14:40:55+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html?v=4.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\egdouban\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2018-05-20T14:46:27+08:00 ] 127.0.0.1 /admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\egdouban\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-20T14:46:27+08:00 ] 127.0.0.1 /index.php/Admin/index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\egdouban\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-20T14:46:30+08:00 ] 127.0.0.1 /index.php/Admin/Seller/lists.html?v=4.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\egdouban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `seller` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `seller`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `classify` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `classify` WHERE ( pid=0 )  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( pid=1 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `classify` WHERE ( pid=3 )  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( status=1 )  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: where E:\xampp\htdocs\egdouban\Application\Admin\Controller\SellerController.class.php 第 37 行.
+SQL: SELECT * FROM `seller` LIMIT 0,20   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `seller` LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined offset: 5 E:\xampp\htdocs\egdouban\Application\Runtime\Cache\Admin\73d63010e4db6b6f7ce97b9b1034a08a.php 第 71 行.
+NOTIC: [8] Undefined offset: 6 E:\xampp\htdocs\egdouban\Application\Runtime\Cache\Admin\73d63010e4db6b6f7ce97b9b1034a08a.php 第 71 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.060004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.061004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-20T14:46:32+08:00 ] 127.0.0.1 /index.php/Admin/Classify/lists.html?v=4.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\egdouban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `classify` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `classify` WHERE ( pid=0 )  [ RunTime:0.0320s ]
+NOTIC: [8] Undefined variable: where E:\xampp\htdocs\egdouban\Application\Admin\Controller\ClassifyController.class.php 第 23 行.
+SQL: SELECT * FROM `classify` LIMIT 0,20   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `classify` LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-05-20T14:46:33+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html?v=4.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\egdouban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `classify` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `classify` WHERE ( pid=0 )  [ RunTime:0.0020s ]
+SQL: SELECT * FROM `classify` WHERE ( pid=1 )  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( pid=3 )  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( status=1 )  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: where E:\xampp\htdocs\egdouban\Application\Admin\Controller\GoodsController.class.php 第 39 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `goods` LIMIT 0,20   [ RunTime:0.0320s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `goods` LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined offset: 4 E:\xampp\htdocs\egdouban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 75 行.
+NOTIC: [8] Undefined offset: 5 E:\xampp\htdocs\egdouban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 75 行.
+NOTIC: [8] Undefined offset: 6 E:\xampp\htdocs\egdouban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 75 行.
+NOTIC: [8] Undefined offset: 7 E:\xampp\htdocs\egdouban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 75 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-20T15:47:04+08:00 ] 127.0.0.1 /admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\egdouban\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.074004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.074004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-20T15:47:04+08:00 ] 127.0.0.1 /index.php/Admin/index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\egdouban\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2018-05-20T15:47:08+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html?v=4.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\egdouban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `classify` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `classify` WHERE ( pid=0 )  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( pid=1 )  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( pid=3 )  [ RunTime:0.0020s ]
+SQL: SELECT * FROM `classify` WHERE ( status=1 )  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: where E:\xampp\htdocs\egdouban\Application\Admin\Controller\GoodsController.class.php 第 39 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `goods` LIMIT 0,20   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `goods` LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined offset: 4 E:\xampp\htdocs\egdouban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 75 行.
+NOTIC: [8] Undefined offset: 5 E:\xampp\htdocs\egdouban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 75 行.
+NOTIC: [8] Undefined offset: 6 E:\xampp\htdocs\egdouban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 75 行.
+NOTIC: [8] Undefined offset: 7 E:\xampp\htdocs\egdouban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 75 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-20T15:47:14+08:00 ] 127.0.0.1 /index.php/admin/goods/edit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\egdouban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `classify` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `classify` WHERE ( pid=0 )  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( pid=1 )  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( pid=3 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `classify` WHERE ( status=1 )  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.038002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-20T15:50:21+08:00 ] 127.0.0.1 /admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\egdouban\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-20T15:50:21+08:00 ] 127.0.0.1 /index.php/Admin/index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\egdouban\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-05-20T15:50:24+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html?v=4.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\egdouban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `classify` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `classify` WHERE ( pid=0 )  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( pid=1 )  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( pid=3 )  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( status=1 )  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: where E:\xampp\htdocs\egdouban\Application\Admin\Controller\GoodsController.class.php 第 39 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `goods` LIMIT 0,20   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `goods` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined offset: 4 E:\xampp\htdocs\egdouban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 75 行.
+NOTIC: [8] Undefined offset: 5 E:\xampp\htdocs\egdouban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 75 行.
+NOTIC: [8] Undefined offset: 6 E:\xampp\htdocs\egdouban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 75 行.
+NOTIC: [8] Undefined offset: 7 E:\xampp\htdocs\egdouban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 75 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-20T15:50:26+08:00 ] 127.0.0.1 /index.php/admin/goods/edit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\egdouban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `classify` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `classify` WHERE ( pid=0 )  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( pid=1 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `classify` WHERE ( pid=3 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `classify` WHERE ( status=1 )  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-05-20T15:51:02+08:00 ] 127.0.0.1 /admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\egdouban\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-20T15:51:02+08:00 ] 127.0.0.1 /index.php/Admin/index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\egdouban\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-20T15:51:05+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html?v=4.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\egdouban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `classify` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `classify` WHERE ( pid=0 )  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( pid=1 )  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( pid=3 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `classify` WHERE ( status=1 )  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: where E:\xampp\htdocs\egdouban\Application\Admin\Controller\GoodsController.class.php 第 39 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `goods` LIMIT 0,20   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `goods` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined offset: 4 E:\xampp\htdocs\egdouban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 75 行.
+NOTIC: [8] Undefined offset: 5 E:\xampp\htdocs\egdouban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 75 行.
+NOTIC: [8] Undefined offset: 6 E:\xampp\htdocs\egdouban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 75 行.
+NOTIC: [8] Undefined offset: 7 E:\xampp\htdocs\egdouban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 75 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-20T15:51:08+08:00 ] 127.0.0.1 /index.php/admin/goods/edit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\egdouban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `classify` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `classify` WHERE ( pid=0 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `classify` WHERE ( pid=1 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `classify` WHERE ( pid=3 )  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( status=1 )  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-20T15:51:30+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html?v=4.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\egdouban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `classify` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `classify` WHERE ( pid=0 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `classify` WHERE ( pid=1 )  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( pid=3 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `classify` WHERE ( status=1 )  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: where E:\xampp\htdocs\egdouban\Application\Admin\Controller\GoodsController.class.php 第 39 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `goods` LIMIT 0,20   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `goods` LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined offset: 4 E:\xampp\htdocs\egdouban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 75 行.
+NOTIC: [8] Undefined offset: 5 E:\xampp\htdocs\egdouban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 75 行.
+NOTIC: [8] Undefined offset: 6 E:\xampp\htdocs\egdouban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 75 行.
+NOTIC: [8] Undefined offset: 7 E:\xampp\htdocs\egdouban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 75 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-20T15:51:33+08:00 ] 127.0.0.1 /index.php/admin/goods/edit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\egdouban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `classify` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `classify` WHERE ( pid=0 )  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( pid=1 )  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( pid=3 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `classify` WHERE ( status=1 )  [ RunTime:0.0640s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-20T15:51:47+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html?v=4.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\egdouban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `classify` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `classify` WHERE ( pid=0 )  [ RunTime:0.0020s ]
+SQL: SELECT * FROM `classify` WHERE ( pid=1 )  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( pid=3 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `classify` WHERE ( status=1 )  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: where E:\xampp\htdocs\egdouban\Application\Admin\Controller\GoodsController.class.php 第 39 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `goods` LIMIT 0,20   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `goods` LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined offset: 4 E:\xampp\htdocs\egdouban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 75 行.
+NOTIC: [8] Undefined offset: 5 E:\xampp\htdocs\egdouban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 75 行.
+NOTIC: [8] Undefined offset: 6 E:\xampp\htdocs\egdouban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 75 行.
+NOTIC: [8] Undefined offset: 7 E:\xampp\htdocs\egdouban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 75 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-20T15:51:48+08:00 ] 127.0.0.1 /index.php/admin/goods/edit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\egdouban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `classify` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `classify` WHERE ( pid=0 )  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( pid=1 )  [ RunTime:0.0020s ]
+SQL: SELECT * FROM `classify` WHERE ( pid=3 )  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( status=1 )  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-20T15:53:18+08:00 ] 127.0.0.1 /index.php/Admin/Goods/save.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\egdouban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `classify` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `classify` WHERE ( pid=0 )  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( pid=1 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `classify` WHERE ( pid=3 )  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( status=1 )  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0080s ]
+SQL: INSERT INTO `goods` (`name`,`price`,`img`,`seller`,`summary`,`classify_id`) VALUES ('金政委','1','校徽.bmp','北华大学','德玛西亚','1') [ RunTime:0.0900s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-20T15:53:19+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\egdouban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `classify` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `classify` WHERE ( pid=0 )  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( pid=1 )  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( pid=3 )  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( status=1 )  [ RunTime:0.0020s ]
+NOTIC: [8] Undefined variable: where E:\xampp\htdocs\egdouban\Application\Admin\Controller\GoodsController.class.php 第 39 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `goods` LIMIT 0,20   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `goods` LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined offset: 4 E:\xampp\htdocs\egdouban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 75 行.
+NOTIC: [8] Undefined offset: 5 E:\xampp\htdocs\egdouban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 75 行.
+NOTIC: [8] Undefined offset: 6 E:\xampp\htdocs\egdouban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 75 行.
+NOTIC: [8] Undefined offset: 7 E:\xampp\htdocs\egdouban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 75 行.
+NOTIC: [8] Undefined offset: 8 E:\xampp\htdocs\egdouban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 75 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-20T15:53:33+08:00 ] 127.0.0.1 /index.php/admin/goods/online/id/8.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\egdouban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `classify` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `classify` WHERE ( pid=0 )  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( pid=1 )  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( pid=3 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `classify` WHERE ( status=1 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0060s ]
+SQL: UPDATE `goods` SET `status`='1' WHERE ( id=8 ) [ RunTime:0.1160s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-20T15:53:34+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\egdouban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `classify` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `classify` WHERE ( pid=0 )  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( pid=1 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `classify` WHERE ( pid=3 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `classify` WHERE ( status=1 )  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: where E:\xampp\htdocs\egdouban\Application\Admin\Controller\GoodsController.class.php 第 39 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `goods` LIMIT 0,20   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `classify` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `goods` LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined offset: 4 E:\xampp\htdocs\egdouban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 75 行.
+NOTIC: [8] Undefined offset: 5 E:\xampp\htdocs\egdouban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 75 行.
+NOTIC: [8] Undefined offset: 6 E:\xampp\htdocs\egdouban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 75 行.
+NOTIC: [8] Undefined offset: 7 E:\xampp\htdocs\egdouban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 75 行.
+NOTIC: [8] Undefined offset: 8 E:\xampp\htdocs\egdouban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 75 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
